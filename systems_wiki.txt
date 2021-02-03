@@ -1,0 +1,193 @@
+Systems theory
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Complex systems
+Topics
+Self-organization
+Collective behaviour
+Networks
+Evolution and adaptation
+Pattern formation
+Systems theory
+Nonlinear dynamics
+Game theory
+vte
+Marketing operations
+Key concepts
+BenchmarkingBest practicesBudgetingBusiness intelligenceBusiness processChange managementChief Marketing Officer (CMO)Customer intelligenceCustomer lifecycle managementCustomer lifetime valueData qualityData warehousesDatabase marketingDemand generationDigital asset managementFlowchartInfrastructureLead generationMarketing accountabilityMarketing automationMarketing effectivenessOrganization developmentPost-merger integrationPredictive analyticsPredictive modellingProcess optimizationReturn on marketing investmentStrategic planningSystems theory
+vte
+Systems theory is the interdisciplinary study of systems. A system is a cohesive conglomeration of interrelated and interdependent parts which can be natural or human-made. Every system is bounded by space and time, influenced by its environment, defined by its structure and purpose, and expressed through its functioning. A system may be more than the sum of its parts if it expresses synergy or emergent behavior.
+
+Changing one part of a system may affect other parts or the whole system. It may be possible to predict these changes in patterns of behavior. For systems that learn and adapt, the growth and the degree of adaptation depend upon how well the system is engaged with its environment. Some systems support other systems, maintaining the other system to prevent failure. The goals of systems theory are to model a system's dynamics, constraints, conditions, and to elucidate principles (such as purpose, measure, methods, tools) that can be discerned and applied to other systems at every level of nesting, and in a wide range of fields for achieving optimized equifinality.[1]
+
+General systems theory is about developing broadly applicable concepts and principles, as opposed to concepts and principles specific to one domain of knowledge. It distinguishes dynamic or active systems from static or passive systems. Active systems are activity structures or components that interact in behaviours and processes. Passive systems are structures and components that are being processed. For example, a program is passive when it is a disc file and active when it runs in memory.[2] The field is related to systems thinking, machine logic, and systems engineering.
+
+
+Contents
+1	Key concepts
+2	Origin of the term
+3	Overview
+4	Examples of applications
+4.1	System dynamics
+4.2	Systems biology
+4.3	Systems chemistry
+4.4	Systems ecology
+4.5	Systems engineering
+4.6	Systems psychology
+4.7	Systems thinking
+4.7.1	Systems thinking in a User-centered design process
+5	History
+6	Developments
+6.1	General systems research and systems inquiry
+6.2	Cybernetics
+6.3	Complex adaptive systems
+7	See also
+8	References
+9	Further reading
+10	External links
+Key concepts
+System: An entity made up of interrelated, interdependent parts.
+Boundaries: Barriers that define a system and distinguish it from other systems in an environment.
+Homeostasis: The tendency of a system to be resilient with respect to external disruption and to maintain its key characteristics.
+Adaptation: The tendency of a system to make the internal changes to protect itself and keep fulfilling its purpose.
+Reciprocal transactions: Circular or cyclical interactions that systems engage in such that they influence one another.
+Feedback loop: The process by which systems self-correct based on reactions from other systems in the environment.
+Throughput: Rate of energy transfer between a system and its environment over time.
+Microsystem: The system closest to the client.
+Mesosystem: Relationships among systems in an environment.
+Exosystem: A relationship between two systems that has an indirect effect on a third system.
+Macrosystem: A larger system that influences clients, such as policies, administration of entitlement programs, and culture.
+Chronosystem: A system composed of significant life events affecting adaptation.
+Origin of the term
+The term "general systems theory" originates from Bertalanffy's general systems theory (GST). His ideas were adopted by others including Kenneth E. Boulding, William Ross Ashby and Anatol Rapoport working in mathematics, psychology, biology, game theory, and social network analysis.
+
+In sociology, systems thinking started earlier, in the 20th century. Stichweh states:[3] "... Since its beginnings the social sciences were an important part of the establishment of systems theory... the two most influential suggestions were the comprehensive sociological versions of systems theory which were proposed by Talcott Parsons since the 1950s and by Niklas Luhmann since the 1970s." References include Parsons' action theory[4] and Luhmann's social systems theory.[5]
+
+Elements of systems thinking can also be seen in the work of James Clerk Maxwell, in particular control theory.
+
+Overview
+
+This article is written like a personal reflection, personal essay, or argumentative essay that states a Wikipedia editor's personal feelings or presents an original argument about a topic. Please help improve it by rewriting it in an encyclopedic style. (November 2020) (Learn how and when to remove this template message)
+Systems theory is manifest in the work of practitioners in many disciplines, for example the works of biologist Ludwig von Bertalanffy, linguist Béla H. Bánáthy, sociologist Talcott Parsons, and in the study of ecological systems by Howard T. Odum, Eugene Odum and is Fritjof Capra's study of organizational theory, and in the study of management by Peter Senge, in interdisciplinary areas such as Human Resource Development in the works of Richard A. Swanson, and in the works of educators Debora Hammond and Alfonso Montuori.
+
+As a transdisciplinary, interdisciplinary, and multiperspectival endeavor, systems theory brings together principles and concepts from ontology, the philosophy of science, physics, computer science, biology and engineering as well as geography, sociology, political science, psychotherapy (especially family systems therapy), and economics. Systems theory promotes dialogue between autonomous areas of study as well as within systems science itself.
+
+In this respect, with the possibility of misinterpretations, von Bertalanffy[6] believed a general theory of systems "should be an important regulative device in science", to guard against superficial analogies that "are useless in science and harmful in their practical consequences". Others remain closer to the direct systems concepts developed by the original theorists. For example, Ilya Prigogine, of the Center for Complex Quantum Systems at the University of Texas, Austin, has studied emergent properties, suggesting that they offer analogues for living systems. The distinction of autopoiesis as made by Humberto Maturana and Francisco Varela represent further developments in this field. Important names in contemporary systems science include Russell Ackoff, Ruzena Bajcsy, Béla H. Bánáthy, Gregory Bateson, Anthony Stafford Beer, Peter Checkland, Barbara Grosz, Brian Wilson, Robert L. Flood, Allenna Leonard, Radhika Nagpal, Fritjof Capra, Warren McCulloch, Kathleen Carley, Michael C. Jackson, Katia Sycara, and Edgar Morin among others.
+
+With the modern foundations for a general theory of systems following World War I, Ervin Laszlo, in the preface for Bertalanffy's book: Perspectives on General System Theory, points out that the translation of "general system theory" from German into English has "wrought a certain amount of havoc":[7]
+
+It (General System Theory) was criticized as pseudoscience and said to be nothing more than an admonishment to attend to things in a holistic way. Such criticisms would have lost their point had it been recognized that von Bertalanffy's general system theory is a perspective or paradigm, and that such basic conceptual frameworks play a key role in the development of exact scientific theory. .. Allgemeine Systemtheorie is not directly consistent with an interpretation often put on 'general system theory,' to wit, that it is a (scientific) "theory of general systems." To criticize it as such is to shoot at straw men. Von Bertalanffy opened up something much broader and of much greater significance than a single theory (which, as we now know, can always be falsified and has usually an ephemeral existence): he created a new paradigm for the development of theories.[8]
+
+"Theorie" (or "Lehre"), just as "Wissenschaft" (translated Science), "has a much broader meaning in German than the closest English words 'theory' and 'science'".[7] These ideas refer to an organized body of knowledge and "any systematically presented set of concepts, whether empirically, axiomatically, or philosophically" represented, while many associate "Lehre" with theory and science in the etymology of general systems, though it also does not translate from the German very well; its "closest equivalent" translates as "teaching", but "sounds dogmatic and off the mark".[7] While the idea of a "general systems theory" might have lost many of its root meanings in the translation, by defining a new way of thinking about science and scientific paradigms, Systems theory became a widespread term used for instance to describe the interdependence of relationships created in organizations.
+
+A system in this frame of reference can contain regularly interacting or interrelating groups of activities. For example, in noting the influence in organizational psychology as the field evolved from "an individually oriented industrial psychology to a systems and developmentally oriented organizational psychology", some theorists recognize that organizations have complex social systems; separating the parts from the whole reduces the overall effectiveness of organizations.[9] This difference, from conventional models that center on individuals, structures, departments and units, separates in part from the whole, instead of recognizing the interdependence between groups of individuals, structures and processes that enable an organization to function. Laszlo[10] explains that the new systems view of organized complexity went "one step beyond the Newtonian view of organized simplicity" which reduced the parts from the whole, or understood the whole without relation to the parts. The relationship between organisations and their environments can be seen as the foremost source of complexity and interdependence. In most cases, the whole has properties that cannot be known from analysis of the constituent elements in isolation. Béla H. Bánáthy, who argued—along with the founders of the systems society—that "the benefit of humankind" is the purpose of science, has made significant and far-reaching contributions to the area of systems theory. For the Primer Group at ISSS, Bánáthy defines a perspective that iterates this view:[11][full citation needed]
+
+The systems view is a world-view that is based on the discipline of SYSTEM INQUIRY. Central to systems inquiry is the concept of SYSTEM. In the most general sense, system means a configuration of parts connected and joined together by a web of relationships. The Primer Group defines system as a family of relationships among the members acting as a whole. Von Bertalanffy defined system as "elements in standing relationship."
+
+Similar ideas are found in learning theories that developed from the same fundamental concepts, emphasising how understanding results from knowing concepts both in part and as a whole. In fact, Bertalanffy's organismic psychology paralleled the learning theory of Jean Piaget.[12] Some consider interdisciplinary perspectives critical in breaking away from industrial age models and thinking, wherein history represents history and math represents math, while the arts and sciences specialization remain separate and many treat teaching as behaviorist conditioning.[13] The contemporary work of Peter Senge[14] provides detailed discussion of the commonplace critique of educational systems grounded in conventional assumptions about learning, including the problems with fragmented knowledge and lack of holistic learning from the "machine-age thinking" that became a "model of school separated from daily life". In this way some systems theorists attempt to provide alternatives to, and evolved ideation from orthodox theories which have grounds in classical assumptions, including individuals such as Max Weber and Émile Durkheim in sociology and Frederick Winslow Taylor in scientific management.[15] The theorists sought holistic methods by developing systems concepts that could integrate with different areas.
+
+Some may view the contradiction of reductionism in conventional theory (which has as its subject a single part) as simply an example of changing assumptions. The emphasis with systems theory shifts from parts to the organization of parts, recognizing interactions of the parts as not static and constant but dynamic processes. Some questioned the conventional closed systems with the development of open systems perspectives. The shift originated from absolute and universal authoritative principles and knowledge to relative and general conceptual and perceptual knowledge[16] and still remains in the tradition of theorists that sought to provide means to organize human life. In other words, theorists rethought the preceding history of ideas; they did not lose them. Mechanistic thinking was particularly critiqued, especially the industrial-age mechanistic metaphor for the mind from interpretations of Newtonian mechanics by Enlightenment philosophers and later psychologists that laid the foundations of modern organizational theory and management by the late 19th century.[17]
+
+Examples of applications
+System dynamics
+Main article: System dynamics
+System dynamics is an approach to understanding the nonlinear behaviour of complex systems over time using stocks, flows, internal feedback loops, and time delays.[18]
+
+Systems biology
+Main article: Systems biology
+Systems biology is a movement that draws on several trends in bioscience research. Proponents describe systems biology as a biology-based inter-disciplinary study field that focuses on complex interactions in biological systems, claiming that it uses a new perspective (holism instead of reduction). Particularly from the year 2000 onwards, the biosciences use the term widely and in a variety of contexts. An often stated ambition of systems biology is the modelling and discovery of emergent properties which represents properties of a system whose theoretical description requires the only possible useful techniques to fall under the remit of systems biology. It is thought that Ludwig von Bertalanffy may have created the term systems biology in 1928.[19]
+
+Systems chemistry
+Main article: Systems chemistry
+Systems chemistry is the science of studying networks of interacting molecules, to create new functions from a set (or library) of molecules with different hierarchical levels and emergent properties.[20] Systems chemistry is also related to the origin of life (abiogenesis).[21]
+
+Systems ecology
+Main article: Systems ecology
+Systems ecology is an interdisciplinary field of ecology, a subset of Earth system science, that takes a holistic approach to the study of ecological systems, especially ecosystems.[22][23][24] Systems ecology can be seen as an application of general systems theory to ecology. Central to the systems ecology approach is the idea that an ecosystem is a complex system exhibiting emergent properties. Systems ecology focuses on interactions and transactions within and between biological and ecological systems, and is especially concerned with the way the functioning of ecosystems can be influenced by human interventions. It uses and extends concepts from thermodynamics and develops other macroscopic descriptions of complex systems.
+
+Systems engineering
+Main article: Systems engineering
+Systems engineering is an interdisciplinary approach and means for enabling the realisation and deployment of successful systems. It can be viewed as the application of engineering techniques to the engineering of systems, as well as the application of a systems approach to engineering efforts.[25] Systems engineering integrates other disciplines and specialty groups into a team effort, forming a structured development process that proceeds from concept to production to operation and disposal. Systems engineering considers both the business and the technical needs of all customers, with the goal of providing a quality product that meets the user's needs.[26][27]
+
+Systems psychology
+Main article: Systems psychology
+Systems psychology is a branch of psychology that studies human behaviour and experience in complex systems. It received inspiration from systems theory and systems thinking, as well as the basics of theoretical work from Roger Barker, Gregory Bateson, Humberto Maturana and others. It makes an approach in psychology in which groups and individuals receive consideration as systems in homeostasis. Systems psychology "includes the domain of engineering psychology, but in addition seems more concerned with societal systems[28] and with the study of motivational, affective, cognitive and group behavior that holds the name engineering psychology."[29] In systems psychology, "characteristics of organizational behaviour, for example individual needs, rewards, expectations, and attributes of the people interacting with the systems, considers this process in order to create an effective system".[30]
+
+Systems thinking
+Systems thinking is the ability or skill to perform problem solving in complex system. System theory or systems science interdisciplinary study of systems in which System Thinking can be learned. A system is an entity with interrelated and interdependent parts; it is defined by its boundaries and it is more than the sum of its parts (subsystem). Changing one part of the system affects other parts and the whole system, with predictable patterns of behavior.
+
+Systems thinking in a User-centered design process
+Systems thinking is a crucial important part of a User-centered design process and necessary to understand the whole impact of a new HCI Information System.[31] Overlooking this and developing software without insights input from the future users (mediated by user experience designers) is a serious design flaw that can lead to complete failure of Information Systems, increased stress and mental illness for users of Information Systems leading to increased costs and a huge waste of resources.[32] It is currently surprisingly uncommon for organizations and governments to investigate the project management decisions leading to serious design flaws and lack of usability[citation needed].
+
+IEEE estimates[where?] that roughly 15% of the estimated 1 trillion dollars used to develop Information Systems every year is completely wasted and the produced systems are discarded before implementation by entirely preventable mistakes.[33] According to the CHAOS report published in 2018 by the Standish Group a vast majority of Information Systems fail or partly fail according to their survey:
+
+Pure success is the combination of high customer satisfaction with high return on value to the organization. Related figures for the year 2017 are: successful: 14%, challenged: 67%, failed 19%.[34]
+
+History
+
+This article is written like a personal reflection, personal essay, or argumentative essay that states a Wikipedia editor's personal feelings or presents an original argument about a topic. Please help improve it by rewriting it in an encyclopedic style. (November 2020) (Learn how and when to remove this template message)
+Timeline
+Precursors
+Saint-Simon (1760–1825), Karl Marx (1817–1883), Friedrich Engels (1820–1895), Herbert Spencer (1820–1903), Rudolf Clausius (1822–1888), Vilfredo Pareto (1848–1923), Émile Durkheim (1858–1917), Alexander Bogdanov (1873–1928), Nicolai Hartmann (1882–1950), Robert Maynard Hutchins (1929–1951), among others
+Founders
+1946-1953 Macy conferences
+1948 Norbert Wiener publishes Cybernetics or Control and Communication in the Animal and the Machine
+1951 Talcott Parsons publishes The Social System[35]
+1954 Ludwig von Bertalanffy, Anatol Rapoport, Ralph W. Gerard, Kenneth Boulding establish Society for the Advancement of General Systems Theory, in 1956 renamed to Society for General Systems Research.
+1955 W. Ross Ashby publishes Introduction to Cybernetics
+1968 Ludwig von Bertalanffy publishes General System theory: Foundations, Development, Applications
+Other contributors
+1970-1980s Second-order cybernetics developed by Heinz von Foerster, Gregory Bateson, Humberto Maturana and others
+1971-1973 Cybersyn, rudimentary internet and cybernetic system for democratic economic planning developed in Chile under Allende government by Stafford Beer
+1970s Catastrophe theory (René Thom, E.C. Zeeman) Dynamical systems in mathematics.
+1977 Ilya Prigogine received the Nobel Prize for his works on self-organization, conciliating important systems theory concepts with system thermodynamics.
+1980s Chaos theory, David Ruelle, Edward Lorenz, Mitchell Feigenbaum, Steve Smale, James A. Yorke
+1986 Context theory, Anthony Wilden
+1988 International Society for Systems Science
+1990 Complex adaptive systems (CAS), John H. Holland, Murray Gell-Mann, W. Brian Arthur
+Whether considering the first systems of written communication with Sumerian cuneiform to Mayan numerals, or the feats of engineering with the Egyptian pyramids, systems thinking can date back to antiquity. Differentiated from Western rationalist traditions of philosophy, C. West Churchman often identified with the I Ching as a systems approach sharing a frame of reference similar to pre-Socratic philosophy and Heraclitus.[36] Von Bertalanffy traced systems concepts to the philosophy of G.W. Leibniz and Nicholas of Cusa's coincidentia oppositorum. While modern systems can seem considerably more complicated, today's systems may embed themselves in history.
+
+Figures like James Joule and Sadi Carnot represent an important step to introduce the systems approach into the (rationalist) hard sciences of the 19th century, also known as the energy transformation. Then, the thermodynamics of this century, by Rudolf Clausius, Josiah Gibbs and others, established the system reference model as a formal scientific object.
+
+The Society for General Systems Research specifically catalyzed systems theory as an area of study, which developed following the World Wars from the work of Ludwig von Bertalanffy, Anatol Rapoport, Kenneth E. Boulding, William Ross Ashby, Margaret Mead, Gregory Bateson, C. West Churchman and others in the 1950s. Cognizant of advances in science that questioned classical assumptions in the organizational sciences, Bertalanffy's idea to develop a theory of systems began as early as the interwar period, publishing "An Outline for General Systems Theory" in the British Journal for the Philosophy of Science, Vol 1, No. 2, by 1950. Where assumptions in Western science from Greek thought with Plato and Aristotle to Newton's Principia have historically influenced all areas from the hard to social sciences (see David Easton's seminal development of the "political system" as an analytical construct), the original theorists explored the implications of twentieth century advances in terms of systems.
+
+People have studied subjects like complexity, self-organization, connectionism and adaptive systems in the 1940s and 1950s. In fields like cybernetics, researchers such as Norbert Wiener, William Ross Ashby, John von Neumann and Heinz von Foerster, examined complex systems mathematically. John von Neumann discovered cellular automata and self-reproducing systems, again with only pencil and paper. Aleksandr Lyapunov and Jules Henri Poincaré worked on the foundations of chaos theory without any computer at all. At the same time Howard T. Odum, known as a radiation ecologist, recognized that the study of general systems required a language that could depict energetics, thermodynamics and kinetics at any system scale. Odum developed a general system, or universal language, based on the circuit language of electronics, to fulfill this role, known as the Energy Systems Language. Between 1929-1951, Robert Maynard Hutchins at the University of Chicago had undertaken efforts to encourage innovation and interdisciplinary research in the social sciences, aided by the Ford Foundation with the interdisciplinary Division of the Social Sciences established in 1931.[37] Numerous scholars had actively engaged in these ideas before (Tectology by Alexander Bogdanov, published in 1912-1917, is a remarkable example), but in 1937, von Bertalanffy presented the general theory of systems at a conference at the University of Chicago.
+
+The systems view was based on several fundamental ideas. First, all phenomena can be viewed as a web of relationships among elements, or a system. Second, all systems, whether electrical, biological, or social, have common patterns, behaviors, and properties that the observer can analyze and use to develop greater insight into the behavior of complex phenomena and to move closer toward a unity of the sciences. System philosophy, methodology and application are complementary to this science.[7] By 1956, theorists established the Society for General Systems Research, which they renamed the International Society for Systems Science in 1988. The Cold War affected the research project for systems theory in ways that sorely disappointed many of the seminal theorists. Some began to recognize that theories defined in association with systems theory had deviated from the initial General Systems Theory (GST) view.[38] The economist Kenneth Boulding, an early researcher in systems theory, had concerns over the manipulation of systems concepts. Boulding concluded from the effects of the Cold War that abuses of power always prove consequential and that systems theory might address such issues.[39] Since the end of the Cold War, a renewed interest in systems theory emerged, combined with efforts to strengthen an ethical[40] view on the subject.
+
+Developments
+General systems research and systems inquiry
+Many early systems theorists aimed at finding a general systems theory that could explain all systems in all fields of science. The term goes back to Bertalanffy's book titled General System Theory: Foundations, Development, Applications from 1968.[12] He developed the "allgemeine Systemlehre" (general systems theory) first via lectures beginning in 1937 and then via publications beginning in 1946.[41]
+
+Von Bertalanffy's objective was to bring together under one heading the organismic science he had observed in his work as a biologist. His desire was to use the word system for those principles that are common to systems in general. In GST, he writes:
+
+...there exist models, principles, and laws that apply to generalized systems or their subclasses, irrespective of their particular kind, the nature of their component elements, and the relationships or "forces" between them. It seems legitimate to ask for a theory, not of systems of a more or less special kind, but of universal principles applying to systems in general.
+
+— Von Bertalanffy[42]
+Ervin Laszlo[43] in the preface of von Bertalanffy's book Perspectives on General System Theory:[44]
+
+Thus when von Bertalanffy spoke of Allgemeine Systemtheorie it was consistent with his view that he was proposing a new perspective, a new way of doing science. It was not directly consistent with an interpretation often put on "general system theory", to wit, that it is a (scientific) "theory of general systems." To criticize it as such is to shoot at straw men. Von Bertalanffy opened up something much broader and of much greater significance than a single theory (which, as we now know, can always be falsified and has usually an ephemeral existence): he created a new paradigm for the development of theories.
+
+Ludwig von Bertalanffy outlines systems inquiry into three major domains: Philosophy, Science, and Technology. In his work with the Primer Group, Béla H. Bánáthy generalized the domains into four integratable domains of systemic inquiry:
+
+Domain	Description
+Philosophy	the ontology, epistemology and axiology of systems
+Theory	a set of interrelated concepts and principles applying to all systems
+Methodology	the set of models, strategies, methods and tools that instrumentalize systems theory and philosophy
+Application	the application and interaction of the domains
+These operate in a recursive relationship, he explained. Integrating Philosophy and Theory as Knowledge, and Method and Application as action, Systems Inquiry then is knowledgeable action.[45]
+
+Cybernetics
+Main article: Cybernetics
+Cybernetics is the study of the communication and control of regulatory feedback both in living and lifeless systems (organisms, organizations, machines), and in combinations of those. Its focus is how anything (digital, mechanical or biological) controls its behavior, processes information, reacts to information, and changes or can be changed to better accomplish those three primary tasks.
+
+The terms "systems theory" and "cybernetics" have been widely used as synonyms. Some authors use the term cybernetic systems to denote a proper subset of the class of general systems, namely those systems that include feedback loops. However Gordon Pask's differences of eternal interacting actor loops (that produce finite products) makes general systems a proper subset of cybernetics. According to Jackson (2000), von Bertalanffy promoted an embryonic form of general system theory (GST) as early as the 1920s and 1930s but it was not until the early 1950s it became more widely known in scientific circles.
+
+Threads of cybernetics began in the late 1800s that led toward the publishing of seminal works (e.g., Wiener's Cybernetics in 1948 and von Bertalanffy's General Systems Theory in 1968). Cybernetics arose more from engineering fields and GST from biology. If anything it appears that although the two probably mutually influenced each other, cybernetics had the greater influence. Von Bertalanffy (1969) specifically makes the point of distinguishing between the areas in noting the influence of cybernetics: "Systems theory is frequently identified with cybernetics and control theory. This again is incorrect. Cybernetics as the theory of control mechanisms in technology and nature is founded on the concepts of information and feedback, but as part of a general theory of systems;" then reiterates: "the model is of wide application but should not be identified with 'systems theory' in general", and that "warning is necessary against its incautious expansion to fields for which its concepts are not made." (17-23). Jackson (2000) also claims von Bertalanffy was informed by Alexander Bogdanov's three volume Tectology that was published in Russia between 1912 and 1917, and was translated into German in 1928. He also states it is clear to Gorelik (1975) that the "conceptual part" of general system theory (GST) had first been put in place by Bogdanov. The similar position is held by Mattessich (1978) and Capra (1996). Ludwig von Bertalanffy never even mentioned Bogdanov in his works, which Capra (1996) finds "surprising".
+
+Cybernetics, catastrophe theory, chaos theory and complexity theory have the common goal to explain complex systems that consist of a large number of mutually interacting and interrelated parts in terms of those interactions. Cellular automata (CA), neural networks (NN), artificial intelligence (AI), and artificial life (ALife) are related fields, but they do not try to describe general (universal) complex (singular) systems. The best context to compare the different "C"-Theories about complex systems is historical, which emphasizes different tools and methodologies, from pure mathematics in the beginning to pure computer science now. Since the beginning of chaos theory when Edward Lorenz accidentally discovered a strange attractor with his computer, computers have become an indispensable source of information. One could not imagine the study of complex systems without the use of computers today.
+
+Complex adaptive systems
+Main article: Complex adaptive system
+Complex adaptive systems (CAS) are special cases of complex systems. They are complex in that they are diverse and composed of multiple, interconnected elements; they are adaptive in that they have the capacity to change and learn from experience. In contrast to control systems in which negative feedback dampens and reverses disequilibria, CAS are often subject to positive feedback, which magnifies and perpetuates changes, converting local irregularities into global features. The term complex adaptive system was coined at the interdisciplinary Santa Fe Institute (SFI), by John H. Holland, Murray Gell-Mann and others.
+
